@@ -1,4 +1,4 @@
-package com.spring.test;
+/*package com.spring.test;
 
 import javax.annotation.Resource;
 
@@ -21,3 +21,4 @@ public class ApplicationTest {
 		Service.getFindUserInfoAll();
 	}
 }
+*/
