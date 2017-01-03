@@ -9,4 +9,8 @@
 #application-test.properties
 #切换工作环境
 #application.properties
+#启动
+#在Application.java
+#点击 Java Application启动
+
 
